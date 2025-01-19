@@ -46,6 +46,7 @@ nav ul{
 .nav-item{
     text-decoration: none;
     color: var(--header-color);
+    font-weight: 600;
 }
 
 /* Banner Styles */
@@ -251,6 +252,10 @@ nav ul{
     color: #FFF;
     font-weight: 700;
     text-decoration: none;
+}
+.feature-btn:hover{
+    background-color: var(--Text-Gray-900);
+    border-radius: 20px;
 }
 
 /* Footer Styles */
